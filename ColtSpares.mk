@@ -19,5 +19,8 @@ include $(call all-subdir-makefiles,$(LOCAL_PATH))
 # Include Colt Fonts
 include vendor/ColtSpares/fonts/fonts.mk
 
+# Include Colt Prebuilts
+include vendor/ColtSpares/prebuilts/prebuilts.mk
+
 # Include Colt Themes
 include vendor/ColtSpares/themes/themes.mk
