@@ -20,10 +20,6 @@ PRODUCT_COPY_FILES += \
     vendor/ColtSpares/prebuilts/etc/permissions/privapp-permissions-lawnchair.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/privapp-permissions-lawnchair.xml \
     vendor/ColtSpares/prebuilts/etc/sysconfig/lawnchair-hiddenapi-package-whitelist.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/sysconfig/lawnchair-hiddenapi-package-whitelist.xml
 
-# Longshot
-PRODUCT_COPY_FILES += \
-    vendor/ColtSpares/prebuilts/etc/sysconfig/longshot-hiddenapi-package-whitelist.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/longshot-hiddenapi-package-whitelist.xml
-
 # Markup libs
 PRODUCT_COPY_FILES += \
     vendor/ColtSpares/prebuilts/lib/libsketchology_native.so:system/product/lib/libsketchology_native.so \
