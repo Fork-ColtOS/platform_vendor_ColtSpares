@@ -1,5 +1,7 @@
 # Colt Themes
 PRODUCT_PACKAGES += \
+    ColtClearSystemOverlay \
+    ColtClearSystemUIOverlay \
     PitchBlackSystemOverlay \
     PitchBlackSystemUIOverlay \
     SolarizedDarkSystemOverlay \
