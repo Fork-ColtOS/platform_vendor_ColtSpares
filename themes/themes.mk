@@ -13,7 +13,10 @@ PRODUCT_PACKAGES += \
     SystemDarkGrayOverlay \
     SystemUIDarkGrayOverlay \
     MaterialOceanSystemOverlay \
-    MaterialOceanSystemUIOverlay
+    MaterialOceanSystemUIOverlay \
+    SystemMizuThemeOverlay \
+    SystemUIMizuThemeOverlay \
+    SettingsMizuThemeOverlay
 
 # Switch themes
 PRODUCT_PACKAGES += \
