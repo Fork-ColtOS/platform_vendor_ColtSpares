@@ -6,7 +6,6 @@ include $(call all-subdir-makefiles,$(LOCAL_PATH))
 PRODUCT_PACKAGES += \
     ColtPapers \
     Lawnchair \
-    OPScreenRecorder \
     QPGallery \
     SafetyHubPrebuilt \
     WeatherIcons
