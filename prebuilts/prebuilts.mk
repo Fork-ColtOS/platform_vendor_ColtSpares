@@ -11,5 +11,5 @@ PRODUCT_PACKAGES += \
     WeatherIcons
 
 PRODUCT_COPY_FILES += \
-    vendor/ColtSpares/prebuilts/etc/permissions/com.android.launcher3.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.android.launcher3.xml \
-    vendor/ColtSpares/prebuilts/etc/permissions/com.android.launcher3-ext.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.android.launcher3-ext.xml
+    vendor/ColtSpares/prebuilts/etc/permissions/com.enigma.launcher.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.enigma.launcher.xml \
+    vendor/ColtSpares/prebuilts/etc/permissions/com.enigma.launcher-ext.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.enigma.launcher-ext.xml
